@@ -1,0 +1,7 @@
+{
+    "MEDIAN_AGE": "positive",
+    "T_STAT": "The t-stat equals 1.82. It is computed through a t-test and represents \nthe significance of the observed differences.",
+    "P_VALUE": "Its effect isn't statistically significant, neither at the 95 nor the 90% levels: we cannot reject the\nnull hypothesis that the feature has no link at all with the target.",
+    "INCREASE": "For each percentage point of augmentation of the share of families with a married couple, \nthe total number of incidents in the district decreases by 15730 (!!)",
+    "LIMITATIONS": "(Please note, it is no Markdown cell) \nThe dataset is way too small.\n"
+}
